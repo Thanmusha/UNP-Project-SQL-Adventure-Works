@@ -12,4 +12,5 @@ Key Highlights:
 7. These steps collectively demonstrate database management, data transformation, and the execution of analytical queries to extract meaningful insights from the Adventure Works dataset.
 
 SQL file Link : https://drive.google.com/file/d/1hmfOhAPGSWRljJN4P2mEGSKOqlkmAfha/view?usp=sharing
+
 PDF Link : https://drive.google.com/file/d/17hdC0kSWwTfJAZBirNJsfrhHITmpy1Ux/view?usp=sharing
